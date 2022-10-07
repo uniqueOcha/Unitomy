@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248892017021",
+    "project_id": "uniquetomy-92fb2",
+    "storage_bucket": "uniquetomy-92fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248892017021:android:d59350718e7fcf513f2414",
+        "android_client_info": {
+          "package_name": "com.unique.uniquetomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248892017021-aj2g6qj0im8i6q6ralrhmekks0lusf3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4b8Q91_0zDmguVzMXwYTvSe7PsDtqEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248892017021-aj2g6qj0im8i6q6ralrhmekks0lusf3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
